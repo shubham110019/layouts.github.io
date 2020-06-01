@@ -7,12 +7,17 @@
     font-weight: bold;
     text-shadow: 1px 1px 7px black;
 }
+.navbar {
+    font-weight: 300;
+    -webkit-box-shadow: unset !important;
+    box-shadow: unset !important;
+}
 .subtitle{
 	font-size: 18px;
     margin-top: -18px;
 }
 .navbgnew{
-	background: #232c3c;
+	background: #232c3c !important;
 }
 .footer-copyright{
 	background: #1c2331;
